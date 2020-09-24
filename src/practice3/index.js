@@ -1,4 +1,7 @@
 /** Promise方法实现* */
+
+// TODO feedback：promise链式调用知识还可以加强，第一个then里面可以return data.json()
+//  然后再再then的后面再加then
 // export const getPoetry = () => {
 //   const url = "https://v1.jinrishici.com/all.json";
 //   const result = [];
